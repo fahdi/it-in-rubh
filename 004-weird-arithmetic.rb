@@ -15,3 +15,11 @@ puts(9 / 2.0)
 # Output:
 #   4.5
 #   4.5
+
+
+# If you have two integers, you can also write:
+
+puts(9.fdiv(2))
+
+# Output:
+#   4.5
