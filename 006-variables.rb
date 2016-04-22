@@ -18,3 +18,20 @@ puts(cool_things)
 #   Racecars, Lasers, Aeroplanes
 #   Racecars, Lasers, Aeroplanes
 #   Racecars, Lasers, Aeroplanes
+
+
+# Assignment
+cool_thing = "Racecars"
+puts(cool_thing)
+puts(cool_thing)
+
+# Re-assignment
+cool_thing = "Lasers"
+puts(cool_thing)
+puts(cool_thing)
+
+# Output:
+#   Racecars
+#   Racecars
+#   Lasers
+#   Lasers
