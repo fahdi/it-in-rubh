@@ -8,3 +8,9 @@ name = gets
 name.chomp
 
 puts("Hello " + name + "!")
+
+# So we chomp it and save, before we output it
+
+name = name.chomp
+
+puts("Hello " + name + "!")
