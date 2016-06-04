@@ -1,0 +1,1 @@
+puts("ringo ringo".length)
