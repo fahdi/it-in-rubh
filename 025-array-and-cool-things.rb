@@ -11,3 +11,9 @@ puts(four_primes[1])
 puts(four_primes[2])
 
 puts(an_empty_array[0])
+
+idx = 0
+while idx < cool_things.length
+  puts(cool_things[idx])
+  idx = idx + 1
+end
