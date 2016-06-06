@@ -30,3 +30,16 @@ puts("===============================================")
       'factorial(4) == 24: ' + (factorial(4) == 24).to_s
     )
 puts("===============================================")
+
+#Some interesting ways to do it
+
+# https://gist.github.com/fahdi/597f9e725fa055afbf399c0701b84e58
+
+# https://gist.github.com/fahdi/b83f2ef2a2083b85e9a0efb32ee6a672
+
+# https://gist.github.com/fahdi/b364e44a387c52ba9656154a9ccec6ec
+
+# https://gist.github.com/fahdi/da04ebf4937b967f0dcbe11cca7f8aaa
+
+
+
